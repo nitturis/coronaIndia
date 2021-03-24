@@ -1,3 +1,10 @@
+# Mac
+.DS_Store
+
+# Data
+*.csv
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +134,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+mess.py
